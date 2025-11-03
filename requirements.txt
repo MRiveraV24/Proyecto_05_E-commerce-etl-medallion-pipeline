@@ -1,0 +1,34 @@
+# Pipeline ETL - Dependencias Python
+# Autor: Data Engineering Team
+# Fecha: 2025-10-28
+
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Data Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# File Format Support
+openpyxl>=3.0.0          # Excel files
+pyarrow>=10.0.0          # Parquet format
+fastparquet>=2023.0.0    # Alternative Parquet engine
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Code Quality
+black>=23.0.0            # Code formatter
+flake8>=6.0.0           # Linter
+mypy>=1.0.0             # Type checker
+
+# Utilities
+python-dateutil>=2.8.0
+tqdm>=4.65.0            # Progress bars
+
+# Optional: Advanced Features
+# dask>=2023.0.0        # Parallel processing
+# sqlalchemy>=2.0.0     # Database integration
+# plotly>=5.0.0         # Interactive visualizations

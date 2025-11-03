@@ -1136,4 +1136,3 @@ df_gold.to_sql('sales_by_country', engine, if_exists='replace')
 *Versión del documento: 2.0*  
 *Pipeline versión: 3.1*
 
-

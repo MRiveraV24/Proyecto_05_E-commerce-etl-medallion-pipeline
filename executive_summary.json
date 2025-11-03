@@ -1,0 +1,28 @@
+{
+  "pipeline_execution": {
+    "status": "SUCCESS",
+    "execution_time": "Calculado autom\u00e1ticamente",
+    "timestamp": "2025-11-01 17:17:34"
+  },
+  "data_processing": {
+    "bronze_records": 541909,
+    "silver_records": 392688,
+    "records_filtered": 149221,
+    "retention_rate": 72.46382695249571,
+    "gold_tables_created": 4
+  },
+  "business_insights": {
+    "total_revenue": 8887208.889999999,
+    "avg_order_value": 479.5601602633283,
+    "unique_customers": 4338,
+    "unique_products": 3664,
+    "total_orders": 18532,
+    "countries_served": 37,
+    "top_country": "United Kingdom",
+    "top_country_revenue": 7285024.64,
+    "best_month": "2011-11",
+    "best_month_revenue": 1156205.61,
+    "top_product": "PAPER CRAFT , LITTLE BIRDIE",
+    "top_product_revenue": 168469.6
+  }
+}
