@@ -848,9 +848,10 @@ MIT License - Ver archivo LICENSE para detalles
 
 ## 📞 Contacto
 
-**Autor**: Data Engineering Team  
-**Email**: data-team@example.com  
-**GitHub**: [github.com/tu-usuario/etl-medallion-pipeline](https://github.com)
+**Autor**: Marcelo Rivera Vega, Data Engineering  
+**Email**: marcelo.rivera.vega@gmail.com   
+**GitHub**: [github.com/MRiveraV24/Proyecto_05_E-commerce-etl-medallion-pipeline](https://github.com)
+
 
 ---
 
