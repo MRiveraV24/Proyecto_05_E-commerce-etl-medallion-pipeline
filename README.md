@@ -852,7 +852,6 @@ MIT License - Ver archivo LICENSE para detalles
 **Email**: marcelo.rivera.vega@gmail.com   
 **GitHub**: [github.com/MRiveraV24/Proyecto_05_E-commerce-etl-medallion-pipeline](https://github.com)
 
-
 ---
 
 ## 🎯 Próximos Pasos
