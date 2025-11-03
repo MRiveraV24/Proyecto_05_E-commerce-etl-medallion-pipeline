@@ -1,5 +1,5 @@
 # Pipeline ETL - Dependencias Python
-# Autor: Data Engineering Team
+# Autor: Marcelo Rivera Vega Data Engineering
 # Fecha: 2025-10-28
 
 # Core Data Processing
