@@ -251,8 +251,8 @@ pyarrow>=10.0.0
 
 # 2. Clonar o cargar archivos del proyecto
 # Opción A: Desde GitHub
-!git clone https://github.com/tu-repo/etl-medallion-pipeline.git
-%cd etl-medallion-pipeline
+!git clone https://github.com/MRiveraV24/Proyecto_05_E-commerce-etl-medallion-pipeline.git
+%cd Proyecto_05_E-commerce-etl-medallion-pipeline
 
 # Opción B: Subir archivos manualmente
 from google.colab import files
@@ -272,8 +272,8 @@ uploaded = files.upload()
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/tu-repo/etl-medallion-pipeline.git
-cd etl-medallion-pipeline
+git clone https://github.com/MRiveraV24/Proyecto_05_E-commerce-etl-medallion-pipeline.git
+cd Proyecto_05_E-commerce-etl-medallion-pipeline
 
 # 2. Crear entorno virtual
 python -m venv venv
@@ -297,7 +297,7 @@ python visualizations.py
 ## 📁 Estructura del Proyecto
 
 ```
-etl-medallion-pipeline/
+Proyecto_05_E-commerce-etl-medallion-pipeline/
 │
 ├── main.py                    # 🎯 Pipeline principal (orquestación)
 ├── test_pipeline.py           # 🧪 Suite de pruebas unitarias
@@ -1042,7 +1042,7 @@ Después de ejecutar el pipeline completo, obtendrás:
 
 ## 🤝 Agradecimientos
 
-Este proyecto fue desarrollado como ejemplo educativo de:
+Este proyecto fue desarrollado como desafío personal y ejemplo educativo de:
 - Arquitectura de datos moderna (Medallion)
 - Buenas prácticas de ingeniería de datos
 - Código Python profesional
